@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "^2.0.4"
+  }
+}
